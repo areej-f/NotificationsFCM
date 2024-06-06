@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700466168486",
+    "project_id": "personalwhatsapp-38a44",
+    "storage_bucket": "personalwhatsapp-38a44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700466168486:android:8b5f340ecb332c83866a67",
+        "android_client_info": {
+          "package_name": "com.example.notificationsfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy52UQXWOe8OuOUa9ab4zMMQ2ql-LmU5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700466168486:android:d4ea76cc62fb8027866a67",
+        "android_client_info": {
+          "package_name": "com.example.personalwhatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy52UQXWOe8OuOUa9ab4zMMQ2ql-LmU5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
